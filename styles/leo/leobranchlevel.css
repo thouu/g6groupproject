@@ -1,0 +1,39 @@
+
+/*
+This CSS is copied from Poul's CSS intended for the pages branching from the primary index.html page.
+I branched it because I wanted CSS on my button tags without possibly affecting anybody elses buttons :)
+*/
+
+body {
+  background-color: lightpink;
+}
+
+h1 {
+  color: darkblue;
+}
+
+img{
+  border:10px solid green;
+  color:white;
+  border-radius:20px;
+  vertical-align: top;
+  background: lightgrey;
+}
+
+figcaption{
+  width: 315px;
+  text-align: left;
+  margin-left: 25px;
+  color:black;
+  font-style: italic;
+  font-size: 30px;
+}
+
+p{
+  width: 600px;
+}
+
+button{
+  padding: 12px 24px;
+  font-size: 16px;
+}
