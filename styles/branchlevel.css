@@ -9,7 +9,6 @@ h1 {
 
 img{
   width:300px;
-  height:200px;
   border:10px solid green;
   color:white;
   border-radius:20px;
@@ -23,4 +22,9 @@ figcaption{
   color:black;
   font-style: italic;
   font-size: 30px;
+}
+
+button{
+  padding: 12px 24px;
+  font-size: 16px;
 }
