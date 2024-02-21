@@ -14,6 +14,11 @@ img{
   border-radius:20px;
   vertical-align: top;
 }
+div{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
 
 figcaption{
   width: 315px;
